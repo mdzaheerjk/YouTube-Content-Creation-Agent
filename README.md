@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://d14omfvx1qlabb.cloudfront.net/krishnaik.in/media/project_banners/1.png"
        alt="YouTube AI Project Banner"
-       width="1000"/>
+       width="800"/>
 </p>
 
 ---
@@ -14,5 +14,5 @@
 <p align="center">
   <img src="https://d14omfvx1qlabb.cloudfront.net/krishnaik.in/media/project_architecture_diagrams/3242.png"
        alt="YouTube AI Project Architecture Diagram"
-       width="900"/>
+       width="800"/>
 </p>
