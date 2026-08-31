@@ -1,4 +1,5 @@
 # YouTube-Content-Creation-Agent
+YouTube Content Creation Agent is a cutting-edge, Streamlit-based application designed to streamline the research and content creation process for video creators. By combining real-time search capabilities with advanced large language models (LLMs), it allows users to go from a simple topic query to a polished short-form video script in seconds.
 <h1 align="center">📺 YouTube AI Project</h1>
 
 <p align="center">
